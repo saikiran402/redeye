@@ -1,0 +1,579 @@
+{
+    "8dZgq72oX7bT31n38PZ6NPgPmaDZb4aBzMfLrURQpump": {},
+    "GgvsAgymTin2EbxfuakWvdwnQXQk5YVukRP2BfV2Fhaq": {
+        "boughtUsd": "$232.83",
+        "totalProfit": "$19.08",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "0.08x",
+        "buys": "2",
+        "sells": "2"
+    },
+    "D4kkv8CXNyy78xxw7fC9ou9ys3XeSegqpSZJEmGNzoeQ": {
+        "boughtUsd": "$95.57",
+        "totalProfit": "$5.21",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "0.05x",
+        "buys": "3",
+        "sells": "4"
+    },
+    "FgrKY28vQXoy2nebSyhrPpVfERvyjkoCypP4BAwJfCpf": {
+        "boughtUsd": "$0.66",
+        "totalProfit": "$-0.60",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.91x",
+        "buys": "1",
+        "sells": "1"
+    },
+    "4RwGPUto9kp27XU66raJtYae5KrV9wscU1aJ2qnqQzBZ": {
+        "boughtUsd": "$9.90",
+        "totalProfit": "$-0.89",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.09x",
+        "buys": "1",
+        "sells": "1"
+    },
+    "YqoKuHkV2chUNKY5xfruo2mi7qgAg5Q3fKCYmVL7o8T": {
+        "boughtUsd": "$2.20",
+        "totalProfit": "$-2.02",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.92x",
+        "buys": "1",
+        "sells": "1"
+    },
+    "8J8btUyhkczGmhtWBhiBBnoPdKAu1tjxDbgT9Yzxahga": {
+        "boughtUsd": "$2.12",
+        "totalProfit": "$-2.10",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.99x",
+        "buys": "1",
+        "sells": "1"
+    },
+    "4mrPs8tgwSedMPsNp62fAzeftXYqd3rESenQjXRNjwAd": {
+        "boughtUsd": "$23.84",
+        "totalProfit": "$-3.99",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.17x",
+        "buys": "1",
+        "sells": "2"
+    },
+    "GjdXVnM6NHnhdPTY1iimvs6fqopcGFdtamywj4HC7TN1": {
+        "boughtUsd": "$118.74",
+        "totalProfit": "$-5.27",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.04x",
+        "buys": "1",
+        "sells": "1"
+    },
+    "4396ZfW8tPQFErSkP14pgHeC7aUB94Vf7apDQqBmNDYJ": {
+        "boughtUsd": "$6.45",
+        "totalProfit": "$-6.26",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.97x",
+        "buys": "1",
+        "sells": "1"
+    },
+    "5CJhUbe6tDYtnDsPzdX5muFppuCtJgE7TPBzaJefm64n": {
+        "boughtUsd": "$13.13",
+        "totalProfit": "$-7.64",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.58x",
+        "buys": "1",
+        "sells": "1"
+    },
+    "6Ur9FJz59K2j7c7SNrYTemYw5whV5nrVbzjaKGQuxAHj": {
+        "boughtUsd": "$8.85",
+        "totalProfit": "$-8.25",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.93x",
+        "buys": "1",
+        "sells": "1"
+    },
+    "EASfWdP2hrQUtFeZ4N16hHhjQQCW4dXTTeSQezM9QKEV": {
+        "boughtUsd": "$53.39",
+        "totalProfit": "$-9.72",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.18x",
+        "buys": "1",
+        "sells": "2"
+    },
+    "Ds5RrCd92oJESHRzMyrnVdByzG3mXkAzR6Fn5VQJmve4": {
+        "boughtUsd": "$10.74",
+        "totalProfit": "$-10.54",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.98x",
+        "buys": "1",
+        "sells": "1"
+    },
+    "5fQyANkVv7pD2RyGuLpSWRU2Ewiy9MBRu3LGwKtwzLqS": {
+        "boughtUsd": "$11.79",
+        "totalProfit": "$-11.66",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.99x",
+        "buys": "1",
+        "sells": "1"
+    },
+    "FstXtqRwBN54WDhup9qqBQAkKZsfJE4S6DMr5Pcwp3Wr": {
+        "boughtUsd": "$20.88",
+        "totalProfit": "$-13.86",
+        "unrealizedProfit": "$-0.00",
+        "multiplier": "-0.66x",
+        "buys": "1",
+        "sells": "1"
+    },
+    "GmX463dstuiHuLSrz8U5Jbzwa61iYjcbXJGJhxk5fCBq": {
+        "boughtUsd": "$20.27",
+        "totalProfit": "$-15.13",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.75x",
+        "buys": "2",
+        "sells": "1"
+    },
+    "ATnmUXEK6i5XvK7MNvryRJLdYDSEA7NpVLPGjJrXDDtU": {
+        "boughtUsd": "$23.33",
+        "totalProfit": "$-17.34",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.74x",
+        "buys": "1",
+        "sells": "1"
+    },
+    "22g6rbRBs8CjpMRWKVgtTDmTikrXT21b9vTjdai4vr7D": {
+        "boughtUsd": "$38.33",
+        "totalProfit": "$-19.00",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.50x",
+        "buys": "3",
+        "sells": "4"
+    },
+    "DuBnXckCcAkdvL8DzbyonasxiSUwqiU5eVPBW7q8bVKg": {
+        "boughtUsd": "$21.43",
+        "totalProfit": "$-20.07",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.94x",
+        "buys": "2",
+        "sells": "1"
+    },
+    "8WGpAqa539tLVXzEG3pGDSuLv7C31mHuxZvjHCN7FhLA": {
+        "boughtUsd": "$21.61",
+        "totalProfit": "$-20.22",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.94x",
+        "buys": "1",
+        "sells": "1"
+    },
+    "ZNseVX5DSNssqz53qGoPWkimE5AQbUbDDJMkkHGGkZR": {
+        "boughtUsd": "$21.44",
+        "totalProfit": "$-20.80",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.97x",
+        "buys": "1",
+        "sells": "1"
+    },
+    "7Qq8RTV2ZP3niS1xmrvDf5PemARSJamWk3gVbECP3yaE": {
+        "boughtUsd": "$21.38",
+        "totalProfit": "$-21.14",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.99x",
+        "buys": "1",
+        "sells": "1"
+    },
+    "8pbSWwvpGj9zM1QfRJUxSDkVt2wJn3uBUBtrJZLYUMQE": {
+        "boughtUsd": "$47.93",
+        "totalProfit": "$-23.45",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.49x",
+        "buys": "1",
+        "sells": "1"
+    },
+    "7VRMywyyyGZUPfwjh3WnHPsnLKHK1mBvXK1PCz7Y49Lw": {
+        "boughtUsd": "$63.92",
+        "totalProfit": "$-12.10",
+        "unrealizedProfit": "$-14.24",
+        "multiplier": "-0.41x",
+        "buys": "3",
+        "sells": "2"
+    },
+    "B8PnTiSruKgjCm1d5vFoLmU81q6Adpcc3Kg4irKWVBfS": {
+        "boughtUsd": "$71.73",
+        "totalProfit": "$-27.24",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.38x",
+        "buys": "2",
+        "sells": "1"
+    },
+    "GQsDrTGzrrGNKS3c82kjZCnQgNkW51uBwTmB9ZMsb77R": {
+        "boughtUsd": "$32.25",
+        "totalProfit": "$-29.59",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.92x",
+        "buys": "2",
+        "sells": "1"
+    },
+    "BCXATfW3ov7puYyZFYC16WvzcrbRjKJsgZ3FgfRKjAvU": {
+        "boughtUsd": "$55.48",
+        "totalProfit": "$-34.79",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.63x",
+        "buys": "2",
+        "sells": "1"
+    },
+    "Bn6xLxe8eTUkRy1KzHJRdZGnU8GvDqjPUyrcQ9iiYqt": {
+        "boughtUsd": "$43.70",
+        "totalProfit": "$-41.23",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.94x",
+        "buys": "1",
+        "sells": "1"
+    },
+    "H5tF3YNhu22VpABW1WfhH8D7Yyyx37xbM75KZw1MDe7x": {
+        "boughtUsd": "$42.69",
+        "totalProfit": "$-42.00",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.98x",
+        "buys": "2",
+        "sells": "1"
+    },
+    "2tZDRtzbtYGTWffWcDTwFwtX5x5Q7JS4hGgLU126tR5B": {
+        "boughtUsd": "$53.59",
+        "totalProfit": "$-43.65",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.81x",
+        "buys": "1",
+        "sells": "1"
+    },
+    "6pBnixWGA4PPc7S29SHLf4YNsogmaABhzRoEasbMtns4": {
+        "boughtUsd": "$47.35",
+        "totalProfit": "$-46.63",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.98x",
+        "buys": "1",
+        "sells": "1"
+    },
+    "2bRLYGayT3nXgQ7umiQaFPXsECMowWP47PeB3JytY9Zw": {
+        "boughtUsd": "$64.18",
+        "totalProfit": "$-50.70",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.79x",
+        "buys": "1",
+        "sells": "2"
+    },
+    "Cecgy4HNwokh8WsmkTULYhaTLqvE7xpJFdZSn2FXWFSC": {
+        "boughtUsd": "$53.04",
+        "totalProfit": "$-26.31",
+        "unrealizedProfit": "$-25.53",
+        "multiplier": "-0.98x",
+        "buys": "1",
+        "sells": "1"
+    },
+    "BdCJVrPGf81HZemcKsxDRx4mmxHSygMT6smAswtSdxxB": {
+        "boughtUsd": "$52.93",
+        "totalProfit": "$-52.22",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.99x",
+        "buys": "1",
+        "sells": "1"
+    },
+    "9vezELXS7Bp8U2mQDwHnPuHUEjePcV8q7A1LwKzE81Lg": {
+        "boughtUsd": "$65.92",
+        "totalProfit": "$-59.55",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.90x",
+        "buys": "2",
+        "sells": "2"
+    },
+    "9G4DxMxqfuKApsPN8wDCAHEvdw3WkAzyGGeFTkzLeadF": {
+        "boughtUsd": "$63.77",
+        "totalProfit": "$-60.85",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.95x",
+        "buys": "2",
+        "sells": "1"
+    },
+    "39wvCF87Ub4nsq7hk5TTVEMjZVvawtnZbGFCeCvhoZcQ": {
+        "boughtUsd": "$115.23",
+        "totalProfit": "$-61.24",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.53x",
+        "buys": "5",
+        "sells": "6"
+    },
+    "282iXV8qYhE5eKSKZ3UmsZBKEBcfJwTvZksFjpwkM7VX": {
+        "boughtUsd": "$210.51",
+        "totalProfit": "$-65.27",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.31x",
+        "buys": "1",
+        "sells": "1"
+    },
+    "BJBhtPe5U1tqXtZGDJRu2KgzPafg6enN4rFddDwYAnpx": {
+        "boughtUsd": "$74.75",
+        "totalProfit": "$-73.04",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.98x",
+        "buys": "1",
+        "sells": "1"
+    },
+    "7tMP7VFwvhT8XUFS71EWriV56ceCL9p1nfmcn4jAZeKY": {
+        "boughtUsd": "$106.42",
+        "totalProfit": "$-74.18",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.70x",
+        "buys": "1",
+        "sells": "1"
+    },
+    "32vbfReKm7ggYuVVK994ixicGL6YMxJgizFmbSnDs59j": {
+        "boughtUsd": "$116.51",
+        "totalProfit": "$-93.08",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.80x",
+        "buys": "9",
+        "sells": "1"
+    },
+    "7iGcicjFgh5qmumcxTuRAZWuhxesShPxncruYe2gN12W": {
+        "boughtUsd": "$105.98",
+        "totalProfit": "$-97.18",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.92x",
+        "buys": "1",
+        "sells": "1"
+    },
+    "2sbshkkbPATkCNmZsfCnjexR8LKH5sMg1CpdPs2bQqEp": {
+        "boughtUsd": "$106.74",
+        "totalProfit": "$-101.73",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.95x",
+        "buys": "1",
+        "sells": "1"
+    },
+    "DyD2DWVsotFnZmQvcgbM714cxL4hXkHKDcC68nxPCgoW": {
+        "boughtUsd": "$152.79",
+        "totalProfit": "$-106.72",
+        "unrealizedProfit": "$-0.03",
+        "multiplier": "-0.70x",
+        "buys": "5",
+        "sells": "1"
+    },
+    "7QJwJAcKo3P1kXmJwgHqAdzmQQ9J8x86AsaSHf3WL9Rb": {
+        "boughtUsd": "$119.89",
+        "totalProfit": "$-107.21",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.89x",
+        "buys": "2",
+        "sells": "1"
+    },
+    "CWtiKbeCziVUvRAakMDSrdcJuFSP3BadZMeEV95TVt2s": {
+        "boughtUsd": "$489.68",
+        "totalProfit": "$-115.75",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.24x",
+        "buys": "14",
+        "sells": "4"
+    },
+    "Gna9o1nMQKkaMHVKkGytfeVvU3SQiYpQZZnu5a4bpKtm": {
+        "boughtUsd": "$138.94",
+        "totalProfit": "$-130.08",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.94x",
+        "buys": "2",
+        "sells": "1"
+    },
+    "EP7ez69SWzkWTVNR27K1JydXJMZTZjj8bztf4yLzJWMu": {
+        "boughtUsd": "$143.14",
+        "totalProfit": "$-139.93",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.98x",
+        "buys": "1",
+        "sells": "1"
+    },
+    "6K5GCYkcCNLamZs6b4KLPcjMs2uecdRH1eGEVXMPwpbw": {
+        "boughtUsd": "$150.05",
+        "totalProfit": "$-142.21",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.95x",
+        "buys": "3",
+        "sells": "1"
+    },
+    "ABoxaVdBBD5Gb1YJLbZBREzeRhVdy4MTQuAgbrRvYZk": {
+        "boughtUsd": "$327.70",
+        "totalProfit": "$-153.75",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.47x",
+        "buys": "2",
+        "sells": "2"
+    },
+    "CE2vMaUvwymo2Spe6zSQeWiCWwgmzUoX9GMnuDNsSrU3": {
+        "boughtUsd": "$480.98",
+        "totalProfit": "$-177.79",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.37x",
+        "buys": "2",
+        "sells": "2"
+    },
+    "6S1EGcd2CvLfQQXKUgaCaqpC4tLosTynZ57gEPyfTHoT": {
+        "boughtUsd": "$276.72",
+        "totalProfit": "$-178.65",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.65x",
+        "buys": "4",
+        "sells": "3"
+    },
+    "5ymCoaWKnW94SkTgVQA2E8XuZ6NrtJwtMaGKjE9byfvW": {
+        "boughtUsd": "$199.53",
+        "totalProfit": "$-187.44",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.94x",
+        "buys": "1",
+        "sells": "1"
+    },
+    "57pT9VDUPTDB84zmnravbayEKnHRTtpdWfZ6rGPnGYDo": {
+        "boughtUsd": "$215.72",
+        "totalProfit": "$-204.86",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.95x",
+        "buys": "1",
+        "sells": "1"
+    },
+    "2AKy6BWYYc8gFUXKVHL9Pkd2X9XcewtG97VrWpAhpxp7": {
+        "boughtUsd": "$1,399.42",
+        "totalProfit": "$-207.08",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.15x",
+        "buys": "13",
+        "sells": "4"
+    },
+    "9ZRBm4LTGBsgz6uYaN8RvdAb9W1SGhV6JVD6VLN2tXqn": {
+        "boughtUsd": "$222.80",
+        "totalProfit": "$-207.45",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.93x",
+        "buys": "1",
+        "sells": "1"
+    },
+    "3WqAs9SyusCvGXZ8UGiUQHSqXdmRkUsm8rUzPiEX5Kvp": {
+        "boughtUsd": "$213.96",
+        "totalProfit": "$-211.63",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.99x",
+        "buys": "1",
+        "sells": "1"
+    },
+    "55Kt229bkzJnmdukLnTi5ztDgqyFKH5a53kfxhvcqrHp": {
+        "boughtUsd": "$213.95",
+        "totalProfit": "$-211.90",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.99x",
+        "buys": "1",
+        "sells": "1"
+    },
+    "FLJgwcsgDmE4pxvd8y5pZKfGQzfhiiQCDuD5DdKksdwp": {
+        "boughtUsd": "$363.60",
+        "totalProfit": "$-330.38",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.91x",
+        "buys": "1",
+        "sells": "1"
+    },
+    "6M5gyFFsC44s5hzxirSARkAXinc9tEo69NJaEyFhSyJX": {
+        "boughtUsd": "$388.12",
+        "totalProfit": "$-362.89",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.94x",
+        "buys": "5",
+        "sells": "1"
+    },
+    "HAP1zTAwDGbmqh5vsGVe41TLYF7HCxCNJNFJE3jZC1B7": {
+        "boughtUsd": "$546.30",
+        "totalProfit": "$-500.35",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.92x",
+        "buys": "1",
+        "sells": "1"
+    },
+    "9UST1ZAjj5gXyyoKSFZY6PTa5RUztWBtQU6cvJcbV6QQ": {
+        "boughtUsd": "$537.36",
+        "totalProfit": "$-523.70",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.97x",
+        "buys": "1",
+        "sells": "1"
+    },
+    "Dj3cr3utMBeSCSscpkRb4Svo1NgigWj1waTs53aAzDJ8": {
+        "boughtUsd": "$1,306.78",
+        "totalProfit": "$-543.80",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.42x",
+        "buys": "12",
+        "sells": "2"
+    },
+    "6UB9n5SxN3Kyv4iGTHhNQG3xoV3CTmsM8uMQvwhoxeia": {
+        "boughtUsd": "$749.65",
+        "totalProfit": "$-570.05",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.76x",
+        "buys": "2",
+        "sells": "2"
+    },
+    "FmAMerYYTjCzSDugLpj2ft7ynQ8zDXe7Lwm2LepKu2Je": {
+        "boughtUsd": "$1,207.03",
+        "totalProfit": "$-653.00",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.54x",
+        "buys": "4",
+        "sells": "3"
+    },
+    "CRVidEDtEUTYZisCxBZkpELzhQc9eauMLR3FWg74tReL": {
+        "boughtUsd": "$1,059.08",
+        "totalProfit": "$-869.75",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.82x",
+        "buys": "1",
+        "sells": "2"
+    },
+    "36yMFk57iJk3NXDNpiVfTJHLseLYxXXGFMjrrH7M5A7g": {
+        "boughtUsd": "$1,070.62",
+        "totalProfit": "$-1,058.57",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.99x",
+        "buys": "1",
+        "sells": "1"
+    },
+    "5vMYfZJUsZd1Raj2fA76rGjEkdj3f8sv47GAsrkYkyqd": {
+        "boughtUsd": "$1,275.41",
+        "totalProfit": "$-1,215.03",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.95x",
+        "buys": "2",
+        "sells": "1"
+    },
+    "LkGHx8gAWQ9asCGdSMMDs2iXqg7ipFaKp6KAX1gjeQe": {
+        "boughtUsd": "$2,414.05",
+        "totalProfit": "$-2,287.63",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.95x",
+        "buys": "3",
+        "sells": "1"
+    },
+    "3iFMWYQgBUeqi4wFSF78KhyTqPxyM7kbxcM2LbWzDt5Z": {
+        "boughtUsd": "$3,224.54",
+        "totalProfit": "$-3,153.61",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.98x",
+        "buys": "2",
+        "sells": "1"
+    },
+    "4EfH8E1DEzEswAFXmWRuY9JdAdhnghgNuVZ4kAj4Rnoh": {
+        "boughtUsd": "$4,340.16",
+        "totalProfit": "$-4,259.90",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.98x",
+        "buys": "4",
+        "sells": "1"
+    },
+    "FWuPsvShrLG4r6iYjc3dDCoPneHFdYqDGX4MXuhTDf6y": {
+        "boughtUsd": "$10,696.61",
+        "totalProfit": "$-8,032.83",
+        "unrealizedProfit": "$0.00",
+        "multiplier": "-0.75x",
+        "buys": "2",
+        "sells": "2"
+    }
+}

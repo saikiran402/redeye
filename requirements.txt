@@ -1,0 +1,9 @@
+colorama
+tls_client
+cloudscraper
+fake_useragent
+typing_extensions
+Flask==3.0.0
+Werkzeug==3.0.1
+python-dotenv
+flask-lambda
